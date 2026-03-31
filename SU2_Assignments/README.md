@@ -6,7 +6,7 @@ Each assignment is organized in a separate folder with its corresponding configu
 
 ---
 
-## 📁 Structure
+##Structure
 
 - Assignment-2
 - Assignment-3
@@ -15,7 +15,7 @@ Each assignment is organized in a separate folder with its corresponding configu
 
 ---
 
-## ⚙️ Tools Used
+## Tools Used
 
 - SU2
 - ParaView
@@ -24,7 +24,7 @@ Each assignment is organized in a separate folder with its corresponding configu
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Apurv Gupta  
 B.Tech – Mathematics and Computing
