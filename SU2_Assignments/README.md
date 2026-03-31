@@ -6,7 +6,7 @@ Each assignment is organized in a separate folder with its corresponding configu
 
 ---
 
-##Structure
+## Structure
 
 - Assignment-2
 - Assignment-3
